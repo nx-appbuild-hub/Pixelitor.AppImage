@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Pixelitor
+Comment=Pixelitor is an open source image editor that supports layers, layer masks, text layers, filters, multiple undo etc.
+Exec=AppRun %U
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=pixelitor
+Categories=Graphics;
+StartupWMClass=pixelitor
+StartupNotify=true
