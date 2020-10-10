@@ -1,0 +1,1 @@
+# Pixelitor.AppImage
